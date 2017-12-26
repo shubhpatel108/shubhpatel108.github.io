@@ -1,0 +1,56 @@
+.bordered {
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  margin-bottom: 4px;
+}
+.card-img-top {
+  padding: 10px;
+}
+
+.card {
+  margin: 10px 0px;
+}
+
+.card-title {
+  color: #6b6969
+}
+
+.image-wrapper {
+  height: 150px;
+  display: flex;
+  vertical-align: middle;
+}
+
+.image-wrapper > a {
+  margin:auto;
+}
+
+.resume-card > span {
+  font-size: 12px;
+  display: block;
+  color: gray;
+  text-shadow: 0 0 1px #f1f1f1;
+}
+
+.resume-card > span.position {
+  font-weight: 500;
+}
+
+.profilepic {
+  transform: rotate(2deg);
+}
+
+.main-card-text {
+  font-size: 18px;
+  color: #6b6969;
+}
+
+.resume-link {
+  font-size: 16px;
+  color: #6b6969; 
+}
+
+.profile-link {
+  font-size: 1.3em;
+  color: #6b6969;
+}
